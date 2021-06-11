@@ -10,7 +10,7 @@ class TechList extends Component {
 
     // Definindo a Prop Types dentro de uma classe: 
     static propTypes = {
-        tech: propTypes.string;
+        tech: propTypes.string,
     };
 
 
